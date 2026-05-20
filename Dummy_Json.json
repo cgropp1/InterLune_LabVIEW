@@ -1,0 +1,39 @@
+{
+    "status": {
+        "ts_ms": -1,
+        "hw_estop": -1,
+        "motor_count": -1
+    },
+    "horizontal": {
+        "has_h": -1,
+        "cmd": -1,
+        "raw_cmd": -1,
+        "velocity": -1,
+        "raw_velocity": -1,
+        "raw_position": -1,
+        "global_position": -1,
+        "local_position": -1,
+        "torque": -1
+    },
+    "vertical": {
+        "has_v": -1,
+        "cmd": -1,
+        "raw_cmd": -1,
+        "velocity": -1,
+        "raw_velocity": -1,
+        "raw_position": -1,
+        "global_position": -1,
+        "local_position": -1,
+        "torque": -1
+    },
+    "attachment": {
+        "has_a": -1,
+        "cmd": -1,
+        "raw_cmd": -1,
+        "velocity": -1,
+        "raw_velocity": -1,
+        "raw_position": -1,
+        "global_position": -1,
+        "torque": -1
+    }
+}
