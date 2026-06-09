@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+<ProjectTemplate>
+  <Title localize="yes">LabVIEW Real-Time Control (NI-DAQmx)</Title>
+  <Description localize="yes">Implements deterministic, software-based control of a plant. This sample project uses NI-DAQmx.</Description>
+  <Filters localize="yes">Sample Projects:Real-Time</Filters>
+  <Keywords localize="yes">control;daq;daqmx;single;point;hardware;timed;PID;real-time;RT;acquistion;timed;loop</Keywords>
+  <LocationPath>RT/A</LocationPath>
+  <ProjectPath>LabVIEW Real-Time Control (NI-DAQmx).lvproj</ProjectPath>
+  <ListboxImagePath>images/rt_control.png</ListboxImagePath>
+  <DocumentationPath>documentation/LabVIEW Real-Time Control (NI-DAQmx) Documentation.html</DocumentationPath>
+  <CustomVIMode>None</CustomVIMode>
+  <CustomVIPath></CustomVIPath>
+  <EnvironmentMode></EnvironmentMode>
+  <SortPriority></SortPriority>
+  <HidePrefix>True</HidePrefix>
+</ProjectTemplate>
+
+<ProjectTemplate>
+  <Title localize="yes">LabVIEW Real-Time Waveform Acquisition and Logging (NI-DAQmx)</Title>
+  <Description localize="yes">Acquires continuous waveform data and logs it to disk. This sample project uses NI-DAQmx.</Description>
+  <Filters localize="yes">Sample Projects:Real-Time</Filters>
+  <Keywords localize="yes">data;logger;datalogger;DAQ;DAQmx;TDMS;waveform;real-time;RT;acquistion;PXI;NI-DAQmx</Keywords>
+  <LocationPath>RT/B</LocationPath>
+  <ProjectPath>LabVIEW Real-Time Waveform Acquisition and Logging (NI-DAQmx).lvproj</ProjectPath>
+  <ListboxImagePath>images/real-time_waveform_acq_logging.png</ListboxImagePath>
+  <DocumentationPath>documentation/LabVIEW Real-Time Waveform Acquisition and Logging (NI-DAQmx) Documentation.html</DocumentationPath>
+  <CustomVIMode>None</CustomVIMode>
+  <CustomVIPath></CustomVIPath>
+  <EnvironmentMode></EnvironmentMode>
+  <SortPriority></SortPriority>
+  <HidePrefix>True</HidePrefix>
+</ProjectTemplate>
+</MetaData>

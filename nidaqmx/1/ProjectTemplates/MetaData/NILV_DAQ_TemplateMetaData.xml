@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+<ProjectTemplate>
+  <Title localize="yes">Continuous Measurement and Logging (NI-DAQmx)</Title>
+  <Description localize="yes">Implements a continuous data acquistion application using NI-DAQmx.</Description>
+  <Filters localize="yes">Sample Projects:Desktop</Filters>
+  <Keywords localize="yes">continuous;acquistion;waveform;architecture;DAQ;NI-DAQmx</Keywords>
+  <LocationPath>DAQmx/Cont</LocationPath>
+  <ProjectPath>Continuous Measurement and Logging (NI-DAQmx).lvproj</ProjectPath>
+  <ListboxImagePath>images/contmeas_small.png</ListboxImagePath>
+  <DocumentationPath>documentation/Continuous Measurement and Logging (NI-DAQmx) Documentation.html</DocumentationPath>
+  <CustomVIMode>None</CustomVIMode>
+  <CustomVIPath></CustomVIPath>
+  <EnvironmentMode></EnvironmentMode>
+  <SortPriority></SortPriority>
+  <LabelLocalizations>localization/ContMeas_Label Localization.vi</LabelLocalizations>
+</ProjectTemplate>
+
+<ProjectTemplate>
+  <Title localize="yes">Finite Measurement (NI-DAQmx)</Title>
+  <Description localize="yes">Implements a finite data acquistion application using NI-DAQmx.</Description>
+  <Filters localize="yes">Sample Projects:Desktop</Filters>
+  <Keywords localize="yes">finite;acquistion;waveform;architecture;DAQ;NI-DAQmx</Keywords>
+  <LocationPath>DAQmx/Finite</LocationPath>
+  <ProjectPath>Finite Measurement (NI-DAQmx).lvproj</ProjectPath>
+  <ListboxImagePath>images/singleshotmeas_small.png</ListboxImagePath>
+  <DocumentationPath>documentation/Finite Measurement (NI-DAQmx) Documentation.html</DocumentationPath>
+  <CustomVIMode>None</CustomVIMode>
+  <CustomVIPath></CustomVIPath>
+  <EnvironmentMode></EnvironmentMode>
+  <SortPriority></SortPriority>
+  <LabelLocalizations>localization/SingleShot_Label Localization.vi</LabelLocalizations>
+</ProjectTemplate>
+</MetaData>

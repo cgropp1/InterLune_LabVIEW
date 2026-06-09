@@ -1,0 +1,24 @@
+///// NIDAQType Definition /////
+genericType: NIDAQ
+genericTypeName: DAQmx
+refnum: GenericTag
+library: nilvaiu.*
+ctlDiagRsrc: 3434
+ctlPanelRsrc: 21778
+eventRegisterFunction: DAQRegisterEvent
+eventFreeFunction: DAQUnregisterEvent
+openWithContextFunction: DAQAutoCreateSessionWithLVContext
+closeFunction: DAQAutoDestroyTask
+cleanup: idle
+sourcePalette: "<vilib>:\DAQmx\configure\task.llb\DAQmx Start Task.vi"
+hasActiveProp: no
+passAttributeError: stringLast
+passEventRegError: stringLast
+passMethodError: no
+adapt: no
+matchExact: no
+menuSelect: no
+sorted: no
+calling: C
+dialog: ipfiltering "filter.vi" "Select Filter..." DAQmxGetFilteredIDs120
+namesearchalgo: binary
